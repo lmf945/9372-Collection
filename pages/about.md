@@ -16,14 +16,14 @@ credits: true
 
 This site is a demo collection to practice using CB-GH. I hope to learn how:
 
--To use markdown
--To use the GitHub interface
+- To use markdown
+- To use the GitHub interface
 
 ## Collection History
 
 This is a paragraph about my collection.
 
--This site is generated using [CollectionBuilder-GH](https://collectionbuilding.github.io/gh/), a project to create a free and simple digital collection using [GitHub Pages](https://pages.github.com/) from: 
+- This site is generated using [CollectionBuilder-GH](https://collectionbuilding.github.io/gh/), a project to create a free and simple digital collection using [GitHub Pages](https://pages.github.com/) from: 
 
 - a CSV of collection metadata
 - a folder of JPG images or PDF documents
